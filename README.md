@@ -1,5 +1,6 @@
 Part 2
 https://github.com/nduduzojali/part2
+
 Recipe Management System
 
 This ReadMe file provides an overview of the Recipe Management System system.
@@ -26,10 +27,6 @@ This ReadMe file provides an overview of the Recipe Management System system.
 ## Developer Notes
 - The program employs a simple console-based interface for user interaction, ensuring ease of use and accessibility.
 - Recipe data is stored in memory during runtime and is not persisted beyond the execution of the program.
-
-## Dependencies
-- The program is written in C# and relies on the .NET framework.
-- It utilizes standard namespaces such as `System` and `System.Collections.Generic` for basic functionalities.
 
 ## Contributors
 - [Your Name] (Replace with contributors' names if applicable)
